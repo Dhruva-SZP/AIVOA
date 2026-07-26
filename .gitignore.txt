@@ -1,20 +1,18 @@
-# Python virtual environments
+# Python
 backend/venv/
 backend/.venv/
 venv/
 .venv/
+__pycache__/
+*.pyc
 
 # Node
 frontend/node_modules/
 frontend/dist/
 
-# Python cache
-__pycache__/
-*.pyc
-
 # Environment
 .env
 *.env
 
-# Executables
+# Ignore accidental executables
 *.exe
